@@ -23,9 +23,9 @@ function download
 }
 
 end=".jar"
-download Anuken/Arc arc-core v146
-download Anuken/Arc arcnet v146
-download Anuken/Mindustry core v146
+download Anuken/Arc arc-core v147
+download Anuken/Arc arcnet v147
+download Anuken/Mindustry core v147
 download Anuken rhino 73a812444ac388ac2d94013b5cadc8f70b7ea027
 
 
@@ -37,6 +37,6 @@ echo -e "=>$b Downloading sources...$n"
 
 
 end="-sources.jar"
-download Anuken/Arc arc-core v146
-download Anuken/Arc arcnet v146
-download Anuken/Mindustry core v146
+download Anuken/Arc arc-core v147
+download Anuken/Arc arcnet v147
+download Anuken/Mindustry core v147
